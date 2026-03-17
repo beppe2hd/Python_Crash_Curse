@@ -12,7 +12,7 @@ https://t.me/+d3sdn5JoNwYyMWY8
 
 - Sabato 7/03 09:00 - 13:00
 - Venerdì 13/03 15:00 - 18:00
-- Venerdì 20/03 15:00 - 18:00 (Aula Seminari Studium 2000)
+- Venerdì 20/03 15:00 - 18:00 (Aula B - Edificio Donato Valli, piano terra )
 - Sabato 21/03 09:00 - 13:00 (Aula 6 Studium 6)
 - Sabato 28/03 09:00 - 13:00 (Aula 6 Studium 6)
 
