@@ -15,7 +15,6 @@ class SalesDataAnalyzer:
         return self
 
     def add_features(self):
-        # esempio: feature ingegnerizzata "revenue"
         self.df["revenue"] = self.df["price"] * self.df["quantity"]
         return self
 
@@ -36,7 +35,6 @@ class SalesDataAnalyzer:
         return monthly
 
 
-# Uso
 analyzer = (
     SalesDataAnalyzer("sales.csv")
     .load_data()
