@@ -10,7 +10,7 @@ https://t.me/+d3sdn5JoNwYyMWY8
 ## Esercitazione Finale
 
 Realizzare un programma in Python per gestire una classe Studente.
-Ogni oggetto della classe dovrà rappresentare uno studente con alcune informazioni personali e alcune azioni che può compiere. In Python gli attributi vengono spesso inizializzati nel metodo speciale __init__, che costruisce l’oggetto al momento della creazione.
+Ogni oggetto della classe dovrà rappresentare uno studente con alcune informazioni personali e alcune azioni che può compiere.
 
 Obiettivi
 La classe Studente deve avere almeno questi attributi:
