@@ -30,7 +30,7 @@ def summary_by_month(df):
     return monthly
 
 def main():
-    csv_path = "sales_example.csv"
+    csv_path = "data_1.csv"
     df = load_data(csv_path)
     df = clean_data(df)
     df = add_features(df)

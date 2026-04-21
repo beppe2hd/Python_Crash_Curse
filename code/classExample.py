@@ -36,7 +36,7 @@ class SalesDataAnalyzer:
 
 
 analyzer = (
-    SalesDataAnalyzer("sales.csv")
+    SalesDataAnalyzer("data_1.csv")
     .load_data()
     .clean_data()
     .add_features()
