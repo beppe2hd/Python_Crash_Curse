@@ -7,9 +7,19 @@ Questo spazio raccoglie materiali, esempi, esercitazioni e risorse utili per app
 ## Link al grupo Telegram
 https://t.me/+d3sdn5JoNwYyMWY8
 
-## Esercitazione Finale
+## Esercitazione Finale (per l'ottenimento dell'attestato di frequenza)
 
-Realizzare un programma in Python per gestire una classe Studente.
+Per ottenere l'attestato di frequenza é necessario realizzare il seguente esercizio e consegnarlo tramite un repository github opportunamente documentato.
+
+1. Realizzare uno script relativo alla traccia indicata sotto
+2. Creare un nuovo repository sul vostro account github personale
+3. Caricare il file github 
+4. Descrivere il genericamente il funzionamento del file sul README.md
+5. Aggiungere Nome Cognome e link al repository sul seguente link: https://forms.gle/q5i5zzsQ3g7oh6XN6
+
+### Traccia
+
+Realizzare un script Python per gestire una classe Studente.
 Ogni oggetto della classe dovrà rappresentare uno studente con alcune informazioni personali e alcune azioni che può compiere.
 
 Obiettivi
